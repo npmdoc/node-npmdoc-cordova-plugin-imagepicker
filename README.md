@@ -1,9 +1,14 @@
-# api documentation for  [cordova-plugin-imagepicker (v1.3.0)](https://github.com/jeduan/cordova-plugin-imagepicker#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-imagepicker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-imagepicker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-imagepicker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-imagepicker)
-#### This plugin allows selection of multiple images from the camera roll / gallery in a phonegap app
+# npmdoc-cordova-plugin-imagepicker
 
-[![NPM](https://nodei.co/npm/cordova-plugin-imagepicker.png?downloads=true)](https://www.npmjs.com/package/cordova-plugin-imagepicker)
+api documentation for  [cordova-plugin-imagepicker (v1.3.0)](https://github.com/jeduan/cordova-plugin-imagepicker#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-imagepicker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-imagepicker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-imagepicker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-imagepicker)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-cordova-plugin-imagepicker/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-cordova-plugin-imagepicker_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cordova-plugin-imagepicker/build/apidoc.html)
+This plugin allows selection of multiple images from the camera roll / gallery in a phonegap app
+
+[![NPM](https://nodei.co/npm/cordova-plugin-imagepicker.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-imagepicker)
+
+- [https://npmdoc.github.io/node-npmdoc-cordova-plugin-imagepicker/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-cordova-plugin-imagepicker/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-cordova-plugin-imagepicker/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cordova-plugin-imagepicker/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-cordova-plugin-imagepicker/build/screenCapture.npmPackageListing.svg)
 
@@ -47,13 +52,11 @@
     "license": "Apache 2.0",
     "maintainers": [
         {
-            "name": "jeduan",
-            "email": "jeduan@gmail.com"
+            "name": "jeduan"
         }
     ],
     "name": "cordova-plugin-imagepicker",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jeduan/cordova-plugin-imagepicker.git"
@@ -62,16 +65,6 @@
     "version": "1.3.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module cordova-plugin-imagepicker](#apidoc.module.cordova-plugin-imagepicker)
-
-
-
-# <a name="apidoc.module.cordova-plugin-imagepicker"></a>[module cordova-plugin-imagepicker](#apidoc.module.cordova-plugin-imagepicker)
 
 
 
