@@ -1,8 +1,8 @@
 # npmdoc-cordova-plugin-imagepicker
 
-api documentation for  [cordova-plugin-imagepicker (v1.3.0)](https://github.com/jeduan/cordova-plugin-imagepicker#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-imagepicker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-imagepicker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-imagepicker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-imagepicker)
+#### basic api documentation for  [cordova-plugin-imagepicker (v1.3.0)](https://github.com/jeduan/cordova-plugin-imagepicker#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-imagepicker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-imagepicker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-imagepicker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-imagepicker)
 
-This plugin allows selection of multiple images from the camera roll / gallery in a phonegap app
+#### This plugin allows selection of multiple images from the camera roll / gallery in a phonegap app
 
 [![NPM](https://nodei.co/npm/cordova-plugin-imagepicker.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-imagepicker)
 
@@ -62,7 +62,8 @@ This plugin allows selection of multiple images from the camera roll / gallery i
         "url": "git+https://github.com/jeduan/cordova-plugin-imagepicker.git"
     },
     "scripts": {},
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
